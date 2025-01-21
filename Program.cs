@@ -2,5 +2,7 @@
 // For other other information see Castiel
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hi,Mom");
-string read = Console.ReadLine();
-Console.WriteLine(" Hello " + read);
+int number = 0;
+var rednumber = Console.ReadLine();
+var sum = 4 + rednumber;
+Console.WriteLine(" Sum " + sum);
