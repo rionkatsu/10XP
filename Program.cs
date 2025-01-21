@@ -2,5 +2,5 @@
 // For other other information see Castiel
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hi,Mom");
-var read = Console.ReadLine();
+string read = Console.ReadLine();
 Console.WriteLine(" Hello " + read);
